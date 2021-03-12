@@ -8,7 +8,7 @@ body {
   font-size: 18px;
   line-height: 30px;
   font-family: "Montserrat", sans-serif;
-  max-width: 1400px;
+  /*   max-width: 1400px; */
   margin: 0 auto;
 }
 
@@ -110,8 +110,9 @@ h4 {
 }
 
 .banner {
-  max-height: 715px;
-  height: 715px;
+  /* 
+  max-height: 715px; */
+  height: 100vh;
   background-image: url(../images/banner.png);
   background-repeat: no-repeat;
   background-size: cover;
